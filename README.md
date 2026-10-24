@@ -1,2 +1,2 @@
 # guess-the-number
-It's a game where one has to guess the random number between 0 to 999 in minimum tries. Computer thinks of a number and the player will try to guess it. At first one can enter a random number, then the computer tells whether the entered number is greater or smaller that the number to be guessed. In this way, the number is guessed.
+This is a number-guessing game in which the player tries to guess a randomly chosen number between 0 and 999 in the fewest attempts possible. The computer randomly selects a secret number, and the player enters a guess. After each guess, the computer provides a hint indicating whether the guessed number is greater or smaller. Using these hints, the player continues guessing until the correct number is found.
